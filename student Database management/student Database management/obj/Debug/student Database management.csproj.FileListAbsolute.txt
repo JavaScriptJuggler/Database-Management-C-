@@ -1,0 +1,9 @@
+D:\CCPA\C#\student Database management\student Database management\bin\Debug\student Database management.exe.config
+D:\CCPA\C#\student Database management\student Database management\bin\Debug\student Database management.exe
+D:\CCPA\C#\student Database management\student Database management\bin\Debug\student Database management.pdb
+D:\CCPA\C#\student Database management\student Database management\obj\Debug\student Database management.csprojResolveAssemblyReference.cache
+D:\CCPA\C#\student Database management\student Database management\obj\Debug\student_Database_management.Form1.resources
+D:\CCPA\C#\student Database management\student Database management\obj\Debug\student_Database_management.Properties.Resources.resources
+D:\CCPA\C#\student Database management\student Database management\obj\Debug\student Database management.csproj.GenerateResource.Cache
+D:\CCPA\C#\student Database management\student Database management\obj\Debug\student Database management.exe
+D:\CCPA\C#\student Database management\student Database management\obj\Debug\student Database management.pdb
